@@ -1,0 +1,5 @@
+# OpenClaw Agent - Python Dependencies
+# Client will install OpenClaw and dependencies themselves
+# This file can be used for any pre-installed dependencies if needed
+
+# Currently empty - client will install OpenClaw via: pip install openclaw
